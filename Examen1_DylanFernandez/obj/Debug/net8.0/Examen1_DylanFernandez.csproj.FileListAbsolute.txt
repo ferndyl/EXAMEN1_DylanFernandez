@@ -1,0 +1,14 @@
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\bin\Debug\net8.0\Examen1_DylanFernandez.exe
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\bin\Debug\net8.0\Examen1_DylanFernandez.deps.json
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\bin\Debug\net8.0\Examen1_DylanFernandez.runtimeconfig.json
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\bin\Debug\net8.0\Examen1_DylanFernandez.dll
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\bin\Debug\net8.0\Examen1_DylanFernandez.pdb
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\obj\Debug\net8.0\Examen1_DylanFernandez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\obj\Debug\net8.0\Examen1_DylanFernandez.AssemblyInfoInputs.cache
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\obj\Debug\net8.0\Examen1_DylanFernandez.AssemblyInfo.cs
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\obj\Debug\net8.0\Examen1_DylanFernandez.csproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\obj\Debug\net8.0\Examen1_DylanFernandez.dll
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\obj\Debug\net8.0\refint\Examen1_DylanFernandez.dll
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\obj\Debug\net8.0\Examen1_DylanFernandez.pdb
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\obj\Debug\net8.0\Examen1_DylanFernandez.genruntimeconfig.cache
+C:\Users\ferna\source\repos\Examen1_DylanFernandez\obj\Debug\net8.0\ref\Examen1_DylanFernandez.dll

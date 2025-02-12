@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Examen1_DylanFernandez/1.0.0": {
+        "runtime": {
+          "Examen1_DylanFernandez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examen1_DylanFernandez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
